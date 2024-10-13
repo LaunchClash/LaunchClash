@@ -20,6 +20,6 @@
 
 ## Download
 
-You can install LC in many ways, the easiest way to is by installing the .sh file, you can install it [here](https://lc.bloxycola.online/clients/installer.sh
+You can install LC in many ways, the easiest way to is by installing the .sh file, you can install it [here](https://lc.bloxycola.online/clients/installer.sh)
 
 ## © 2024 The LaunchClash Team!
